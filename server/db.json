@@ -1,9 +1,9 @@
 {
   "users": [{"id":1,"email":"vcorrea@medianet.com.ve","password":"123456"}],
   "universities": [
-    {"id":1,"name":"Universidad Central de Venezuela","description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.","Country":"Venezuela","City":"Caracas","Currency":"Ucv","Language":"Español","Population":"123","web":"ucv.com"},
-    {"id":2,"name":"Instituto Universitario de Tecnologia","description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.","Country":"Venezuela","City":"Caracas","Currency":"IUTE","Language":"Español","Population":"1234","web":"iute.com"},
-    {"id":3,"name":"Instituto Universitario de Tecnologia y Administración","description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.","Country":"Venezuela","City":"Los Teques","Currency":"IUTA","Language":"Español","Population":"12345","web":"iuta.com"},
-    {"id":4,"name":"Universidad Catolica Andres Bello","description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.","Country":"Venezuela","City":"Caracas","Currency":"UCAP","Language":"Español","Population":"123456","web":"ucap.com"}
+    {"id":1,"name":"Universidad Central de Venezuela","description":"Lorem Ipsum is simply dummy text of the printing.","Country":"Venezuela","City":"Caracas","Currency":"Ucv","Language":"Español","Population":"123","web":"ucv.com"},
+    {"id":2,"name":"Instituto Universitario de Tecnologia","description":"Lorem Ipsum. standard dummy text ever since the 1500s.","Country":"Venezuela","City":"Caracas","Currency":"IUTE","Language":"Español","Population":"1234","web":"iute.com"},
+    {"id":3,"name":"Instituto Universitario de Tecnologia y Administración","description":"the printing and typesetting industry. Lorem Ipsum has been the industry's standard","Country":"Venezuela","City":"Los Teques","Currency":"IUTA","Language":"Español","Population":"12345","web":"iuta.com"},
+    {"id":4,"name":"Universidad Catolica Andres Bello","description":"Has been the industry's standard dummy text ever since the 1500s.","Country":"Venezuela","City":"Caracas","Currency":"UCAP","Language":"Español","Population":"123456","web":"ucap.com"}
   ]
 }
