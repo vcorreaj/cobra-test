@@ -1,0 +1,35 @@
+{
+  "name": "challenge-react",
+  "version": "1.0.0",
+  "description": "Condor's React.js assessment challenge",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "app": "npm start -w web",
+    "server": "npm start -w server",
+    "clean": "npx rimraf node_modules .parcel-cache web/dist web/.parcel-cache",
+    "reset": "npm run clean && npm i"
+  },
+  "repository": "git@condor:rgCondor/Challenge-React.js.git",
+  "author": "Rafael González",
+  "license": "MIT",
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1",
+    "bootstrap-icons": "^1.10.5",
+    "node-sass": "^9.0.0",
+    "react-bootstrap": "^2.8.0",
+    "react-bootstrap-typeahead": "^6.2.3",
+    "react-router-dom": "^6.14.2"
+  }
+}
